@@ -2,8 +2,8 @@
 
 A new Flutter project.
 
-## Getting Started
---Screenshots -
+## ScreenShots
+
 ![WhatsApp Image 2025-04-02 at 11 56 12 AM](https://github.com/user-attachments/assets/2bb7dcea-f516-43ac-9d6d-07aa1d75c573)
 
 
